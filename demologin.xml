@@ -1,0 +1,11 @@
+<suite name="Suite">
+<test name="Test">
+<classes>
+<class name="Demo.LoginModule"/>
+<class name="Demo.productpagemodule"/>
+<class name="Demo.Cartmodule"/>
+<class name="Demo.checkoutmodule"/>
+<class name="Demo.navigationmodule"/>
+</classes>
+</test>
+</suite>
